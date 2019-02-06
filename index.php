@@ -16,7 +16,7 @@
 	foreach ($readCsv as $itemCsv) {
 		echo '<tr>';
 		
-		//recorremos cerdas del csv
+		//recorremos celdas del csv
 		foreach ($itemCsv as $elementoItemCSV) {
 			echo '<td>';
 			
