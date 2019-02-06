@@ -1,2 +1,2 @@
 # readCSV
-Program to read csv in table html
+Programm to read csv in table html
